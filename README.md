@@ -1,5 +1,5 @@
 # Binus DSC Backend Final Project (Indonesia Covid Tracker API)
-This is the final project for Binus DSC Backend Weekly Workshop, where we have to create a Covid Tracker API which consists of 5 endpoints.  
+This is the final project for Binus DSC Backend Weekly Workshop, where we have to create a Covid Tracker API. The API have to implement a query database, all request possibilities such as not found and no data are handled, secured from SQL injection, implement middleware to validate X-API-KEY, implement a soft delete, and consists of 5 endpoints.  
   
 ### The 5 endpoints are:  
 1. Get All Provinces  
